@@ -11,5 +11,5 @@ This is an MVP for an Amazon-like storefront using node and MySQL.  This app tak
 ![Basic Product Schema] (products_list.png)
 ![bamazonCustomer.js functionality] (customer_image.png)
 ![Table after change] (quantity_change.png)
-![bamazonManager.js functionality] ("Manager.png")
+![bamazonManager.js functionality] (Manager.png)
 
